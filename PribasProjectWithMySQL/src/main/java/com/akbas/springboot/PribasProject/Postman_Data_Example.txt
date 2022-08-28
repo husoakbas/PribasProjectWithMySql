@@ -1,0 +1,37 @@
+{
+    "creationDate":"19-08-2022",
+    "description":"description1",
+    "title":"title1",
+    "user":
+    {
+        "id":1001,
+        "email":"user1@gmail.com",
+        "password":"1234",
+        "userName":"user1"
+    },
+    "tag":
+    {
+        "id":101,
+        "name_one":"tags1",
+        "name_two":"tags1",
+        "name_three":"tags1"
+    },
+    "moments":
+    [
+        {
+            "id":11,
+            "title":"moments1",
+            "description":"descrip1",
+            "creationDate":"23-08-2022"
+        },
+
+        {
+            "id":12,
+            "title":"moments2",
+            "description":"descrip2",
+            "creationDate":"23-08-2022"
+        }
+
+    ]
+
+}
